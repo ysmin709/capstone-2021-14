@@ -96,4 +96,4 @@ GitHub : https://github.com/choinara0
     - Dataframe 생성
       - Pandas
     - 데이터 전처리
-      - OpenCV를 사용하여 사람 얼굴을 인식해 얼굴 부분만 추출하도록 전처리를 진행했습니다.
+      - OpenCV를 사용하여 사람 얼굴을 인식해 얼굴 부분만 추출하여 학습 데이터에 대한 전처리를 진행했습니다.
